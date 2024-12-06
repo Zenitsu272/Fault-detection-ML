@@ -1,5 +1,5 @@
 # Fault-detection-ML
-So here, i tried to create a machine learning model that uses the decision tree algorithm to predict the chances of a machine becoming faulty.
+So here, i tried to create a machine learning model that uses the decision tree algorithm to predict the chances of a machine becoming faulty using sensory data.
 Being a beginner to ML concepts, this basic project classifies whether a Machine would get faulty very soon or the machine is safe (no fault will be there in the near future.
 The output mainly consisted of 2 possibilities [0,1]
 1 being the machine would become faulty very soon or the chances of this machine being faulty is high
